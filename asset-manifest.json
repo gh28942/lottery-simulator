@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/lottery-simulator/sim/austria/static/css/main.74b59867.chunk.css",
+    "main.js": "/lottery-simulator/sim/austria/static/js/main.6ab3b7f6.chunk.js",
+    "main.js.map": "/lottery-simulator/sim/austria/static/js/main.6ab3b7f6.chunk.js.map",
+    "runtime-main.js": "/lottery-simulator/sim/austria/static/js/runtime-main.48542148.js",
+    "runtime-main.js.map": "/lottery-simulator/sim/austria/static/js/runtime-main.48542148.js.map",
+    "static/css/2.bac56067.chunk.css": "/lottery-simulator/sim/austria/static/css/2.bac56067.chunk.css",
+    "static/js/2.ac88e3d6.chunk.js": "/lottery-simulator/sim/austria/static/js/2.ac88e3d6.chunk.js",
+    "static/js/2.ac88e3d6.chunk.js.map": "/lottery-simulator/sim/austria/static/js/2.ac88e3d6.chunk.js.map",
+    "index.html": "/lottery-simulator/sim/austria/index.html",
+    "precache-manifest.b626e1d24652d3c6d8f36b3c2899ed3c.js": "/lottery-simulator/sim/austria/precache-manifest.b626e1d24652d3c6d8f36b3c2899ed3c.js",
+    "service-worker.js": "/lottery-simulator/sim/austria/service-worker.js",
+    "static/css/2.bac56067.chunk.css.map": "/lottery-simulator/sim/austria/static/css/2.bac56067.chunk.css.map",
+    "static/css/main.74b59867.chunk.css.map": "/lottery-simulator/sim/austria/static/css/main.74b59867.chunk.css.map",
+    "static/js/2.ac88e3d6.chunk.js.LICENSE.txt": "/lottery-simulator/sim/austria/static/js/2.ac88e3d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48542148.js",
+    "static/css/2.bac56067.chunk.css",
+    "static/js/2.ac88e3d6.chunk.js",
+    "static/css/main.74b59867.chunk.css",
+    "static/js/main.6ab3b7f6.chunk.js"
+  ]
+}
