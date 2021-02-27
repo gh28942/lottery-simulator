@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lottery-simulator/static/css/main.74b59867.chunk.css",
-    "main.js": "/lottery-simulator/static/js/main.6a2e5e30.chunk.js",
-    "main.js.map": "/lottery-simulator/static/js/main.6a2e5e30.chunk.js.map",
+    "main.js": "/lottery-simulator/static/js/main.52908fde.chunk.js",
+    "main.js.map": "/lottery-simulator/static/js/main.52908fde.chunk.js.map",
     "runtime-main.js": "/lottery-simulator/static/js/runtime-main.896393e3.js",
     "runtime-main.js.map": "/lottery-simulator/static/js/runtime-main.896393e3.js.map",
     "static/css/2.bac56067.chunk.css": "/lottery-simulator/static/css/2.bac56067.chunk.css",
     "static/js/2.ac88e3d6.chunk.js": "/lottery-simulator/static/js/2.ac88e3d6.chunk.js",
     "static/js/2.ac88e3d6.chunk.js.map": "/lottery-simulator/static/js/2.ac88e3d6.chunk.js.map",
     "index.html": "/lottery-simulator/index.html",
-    "precache-manifest.aaac96c253a51dd5380d45b6dce7deb8.js": "/lottery-simulator/precache-manifest.aaac96c253a51dd5380d45b6dce7deb8.js",
+    "precache-manifest.fd7e5a33ffea1ac6e87da8012e8fafe8.js": "/lottery-simulator/precache-manifest.fd7e5a33ffea1ac6e87da8012e8fafe8.js",
     "service-worker.js": "/lottery-simulator/service-worker.js",
     "static/css/2.bac56067.chunk.css.map": "/lottery-simulator/static/css/2.bac56067.chunk.css.map",
     "static/css/main.74b59867.chunk.css.map": "/lottery-simulator/static/css/main.74b59867.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.bac56067.chunk.css",
     "static/js/2.ac88e3d6.chunk.js",
     "static/css/main.74b59867.chunk.css",
-    "static/js/main.6a2e5e30.chunk.js"
+    "static/js/main.52908fde.chunk.js"
   ]
 }
