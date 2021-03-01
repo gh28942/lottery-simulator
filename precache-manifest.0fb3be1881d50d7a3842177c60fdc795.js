@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb58eb72ce0d82ec0e04d693bf1a902a",
+    "revision": "04a88770bc3efbb92a9c1958d04906d9",
     "url": "/lottery-simulator/index.html"
   },
   {
