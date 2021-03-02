@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7188e16b6e3c8ce31d0ede2395ceece1",
+    "revision": "4d51befd1e8f38d7b475bdd822a1f81c",
     "url": "/lottery-simulator/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lottery-simulator/static/css/2.bac56067.chunk.css"
   },
   {
-    "revision": "f0ae0c101d13d73a6dcc",
+    "revision": "65847eff9c9befa61aca",
     "url": "/lottery-simulator/static/css/main.cb471b56.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lottery-simulator/static/js/2.ac88e3d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f0ae0c101d13d73a6dcc",
-    "url": "/lottery-simulator/static/js/main.b4c99b81.chunk.js"
+    "revision": "65847eff9c9befa61aca",
+    "url": "/lottery-simulator/static/js/main.f4f84322.chunk.js"
   },
   {
     "revision": "6be4a582884dcb689521",
