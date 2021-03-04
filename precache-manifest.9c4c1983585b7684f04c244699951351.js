@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8083f0c40274ceb1da38c271922db934",
+    "revision": "c581e45ecc396820cd81e0a6c90419fb",
     "url": "/lottery-simulator/index.html"
   },
   {
-    "revision": "9171c1c38639e450b11d",
+    "revision": "39398b36902ea85e3f48",
     "url": "/lottery-simulator/static/css/2.bac56067.chunk.css"
   },
   {
-    "revision": "dd6eaa2a5c4d49f15d7e",
+    "revision": "ae0440b1358dbe883b4c",
     "url": "/lottery-simulator/static/css/main.cb471b56.chunk.css"
   },
   {
-    "revision": "9171c1c38639e450b11d",
-    "url": "/lottery-simulator/static/js/2.e1b73975.chunk.js"
+    "revision": "39398b36902ea85e3f48",
+    "url": "/lottery-simulator/static/js/2.ac88e3d6.chunk.js"
   },
   {
     "revision": "e88a3e95b5364d46e95b35ae8c0dc27d",
-    "url": "/lottery-simulator/static/js/2.e1b73975.chunk.js.LICENSE.txt"
+    "url": "/lottery-simulator/static/js/2.ac88e3d6.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "dd6eaa2a5c4d49f15d7e",
-    "url": "/lottery-simulator/static/js/main.0415cc73.chunk.js"
+    "revision": "ae0440b1358dbe883b4c",
+    "url": "/lottery-simulator/static/js/main.a3020c6a.chunk.js"
   },
   {
     "revision": "6be4a582884dcb689521",
