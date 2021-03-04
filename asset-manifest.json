@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/lottery-simulator/static/css/main.cb471b56.chunk.css",
-    "main.js": "/lottery-simulator/static/js/main.3692e6e5.chunk.js",
-    "main.js.map": "/lottery-simulator/static/js/main.3692e6e5.chunk.js.map",
+    "main.js": "/lottery-simulator/static/js/main.57d11e25.chunk.js",
+    "main.js.map": "/lottery-simulator/static/js/main.57d11e25.chunk.js.map",
     "runtime-main.js": "/lottery-simulator/static/js/runtime-main.896393e3.js",
     "runtime-main.js.map": "/lottery-simulator/static/js/runtime-main.896393e3.js.map",
     "static/css/2.bac56067.chunk.css": "/lottery-simulator/static/css/2.bac56067.chunk.css",
-    "static/js/2.10551224.chunk.js": "/lottery-simulator/static/js/2.10551224.chunk.js",
-    "static/js/2.10551224.chunk.js.map": "/lottery-simulator/static/js/2.10551224.chunk.js.map",
+    "static/js/2.2b24b4d6.chunk.js": "/lottery-simulator/static/js/2.2b24b4d6.chunk.js",
+    "static/js/2.2b24b4d6.chunk.js.map": "/lottery-simulator/static/js/2.2b24b4d6.chunk.js.map",
     "index.html": "/lottery-simulator/index.html",
-    "precache-manifest.dfcba7dc6bf0182c86cb1eca5205ab1a.js": "/lottery-simulator/precache-manifest.dfcba7dc6bf0182c86cb1eca5205ab1a.js",
+    "precache-manifest.3750d7681476250b3694d0173cae5b9c.js": "/lottery-simulator/precache-manifest.3750d7681476250b3694d0173cae5b9c.js",
     "service-worker.js": "/lottery-simulator/service-worker.js",
     "static/css/2.bac56067.chunk.css.map": "/lottery-simulator/static/css/2.bac56067.chunk.css.map",
     "static/css/main.cb471b56.chunk.css.map": "/lottery-simulator/static/css/main.cb471b56.chunk.css.map",
-    "static/js/2.10551224.chunk.js.LICENSE.txt": "/lottery-simulator/static/js/2.10551224.chunk.js.LICENSE.txt"
+    "static/js/2.2b24b4d6.chunk.js.LICENSE.txt": "/lottery-simulator/static/js/2.2b24b4d6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.896393e3.js",
     "static/css/2.bac56067.chunk.css",
-    "static/js/2.10551224.chunk.js",
+    "static/js/2.2b24b4d6.chunk.js",
     "static/css/main.cb471b56.chunk.css",
-    "static/js/main.3692e6e5.chunk.js"
+    "static/js/main.57d11e25.chunk.js"
   ]
 }
