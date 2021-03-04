@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/lottery-simulator/precache-manifest.42ff0c3d1b998eaf4b8bd8e68787ae15.js"
+  "/lottery-simulator/precache-manifest.a69a2b774b0501a3e2d7ed9f12c03892.js"
 );
 
 self.addEventListener('message', (event) => {
