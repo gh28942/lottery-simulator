@@ -1,19 +1,21 @@
 # Lottery Simulator
 The lottery simulator is a web app made with Node.js, React and Bootstrap. You can use it to simulate a lotto game from a user's perspective. A game ends once the jackpot is won by the player. 
 <br><br>
-You can find the <b><a href="https://gh28942.github.io/lottery-simulator/overview.html">Github page here</a>.</b>
 
+## Web App ##
+You can find the <b><a href="https://gh28942.github.io/lottery-simulator/overview.html">Github page here</a>.</b>
 <br><br>
 
+## Screenshots ##
 ![Overview over lotto games](scr/lotto-overview.jpg?raw=true "Overview over lotto games")
 <p align="center">Overview over lotto games.</p>
 <br><br>
 
 ![Lotto game UI](scr/lotto-game.jpg?raw=true "Lotto game UI")
 <p align="center">Lotto game UI.</p>
-
 <br><br>
 
+## Scope ##
 The following lotto games are simulated in this implementation: 
 <table class="table">
 						  <thead>
@@ -98,11 +100,36 @@ Not included in the simulation are the Joker (at) and Superstar (it), which are 
 <br><br>
 <b>Disclaimer:</b> This program does only simulate a lottery game. My website/Web-app/Github page is not affiliated with any lottery game company. It is merely a simulation and no real money is used in it. I do not own any of the trademarks listed here.
 <br><br>
+
+## Commands - Install & Usage ##
+Run the app locally:<br>
+// Nodejs API (Terminal 1) 
+```
+cd api
+npm run dev
+```
+// React app (Terminal 2)
+```
+cd my-app
+npm start
+```
+<br><br>
+Push the web app to a Github page:
+```
+cd my-app
+npm install gh-pages --save-dev
+git init
+git remote add origin https://<token>@github.com/<username>/<repository-name>.git
+npm run deploy
+```
+<br><br>
+
+## Credits ##
 Sound effect credits:<br>
 "Superhero fanfare" by "humanoide9000" on <a href="https://freesound.org/people/humanoide9000/sounds/505426/">freesound.org</a> (licensed under the Attribution License)<br>
-"Firework explosion with fizz 2" from <a href="zapsplat.com">zapsplat.com</a> (Standard Licence)<br>
+"Firework explosion with fizz 2" from <a href="https://zapsplat.com">zapsplat.com</a> (Standard Licence)<br>
 Image Credits:<br>
-"Clover Png Icon - Four Leaf Clover" from <a href="nicepng.com">nicepng.com</a><br>
+"Clover Png Icon - Four Leaf Clover" from <a href="https://nicepng.com">nicepng.com</a><br>
 
 
 
