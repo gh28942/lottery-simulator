@@ -97,5 +97,13 @@ Not included in the simulation are the Joker (at) and Superstar (it), which are 
 * The numbers 6 in 45 are also used in the following games: PCSO Mega Lotto (Philippines), Gosloto (Russia), Toto (Germany), Baloto (Colombia), Ireland National Lotto, Canada Lottario, Australia, South Korea and Croatia Lotto.
 <br><br>
 <b>Disclaimer:</b> This program does only simulate a lottery game. My website/Web-app/Github page is not affiliated with any lottery game company. It is merely a simulation and no real money is used in it. I do not own any of the trademarks listed here.
+<br><br>
+Sound effect credits:<br>
+"Superhero fanfare" by "humanoide9000" on <a href="https://freesound.org/people/humanoide9000/sounds/505426/">freesound.org</a> (licensed under the Attribution License)<br>
+"Firework explosion with fizz 2" from <a href="zapsplat.com">zapsplat.com</a> (Standard Licence)<br>
+Image Credits:<br>
+"Clover Png Icon - Four Leaf Clover" from <a href="nicepng.com">nicepng.com</a><br>
+
+
 
 
