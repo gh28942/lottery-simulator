@@ -7,8 +7,12 @@ You can find the <b><a href="https://gh28942.github.io/lottery-simulator/overvie
 <br><br>
 
 ## Video Demo ##
-[![Watch the video](scr/yt-thumb.jpg)](https://www.youtube.com/watch?v=P0FcoEb87cU)
-
+<p align="center">
+	<a href="https://www.youtube.com/watch?v=P0FcoEb87cU">
+		<img src="scr/yt-thumb.jpg" alt="Watch the video" width="60%" height="60%">
+	</a>
+</p>
+											  
 ## Screenshots ##
 ![Overview over lotto games](scr/lotto-overview.jpg?raw=true "Overview over lotto games")
 <p align="center">Overview over lotto games.</p>
