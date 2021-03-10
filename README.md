@@ -3,7 +3,7 @@ The lottery simulator is a web app made with Node.js, React and Bootstrap. You c
 <br><br>
 
 ## Web App ##
-You can find the <b><a href="https://gh28942.github.io/lottery-simulator/overview.html">Github page here</a>.</b>
+You can find the <b><a href="https://gh28942.github.io/lottery-simulator/overview.html">web application here</a>.</b>
 <br><br>
 
 ## Video Demo ##
