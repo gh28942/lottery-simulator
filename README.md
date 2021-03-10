@@ -8,7 +8,7 @@ You can find the <b><a href="https://gh28942.github.io/lottery-simulator/overvie
 
 ## Video Demo ##
 <p align="center">
-	<a href="https://www.youtube.com/watch?v=P0FcoEb87cU">
+	<a href="https://www.youtube.com/watch?v=P0FcoEb87cU" target="_blank">
 		<img src="scr/yt-thumb.jpg" alt="Watch the video" width="60%" height="60%">
 	</a>
 </p>
